@@ -4,6 +4,8 @@ code for Progressive Structure Adjustment for Homophily Shift in Graph Domain Ad
 ## Training ##
 Step 1:
 Pretrain the auxiliary MLP classifier (run train_MLP.py)
+
+
 Step 2:
 Train our GDA model (run main.py)
 
